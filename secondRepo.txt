@@ -1,5 +1,5 @@
     1 pwd - it shows the current location
-    2 cd - it takes you to home
+    2 cd - it changes directory from one folder to another
     3 cd Desktop - it takes you to the desktop folder
     4 git clone - it clones your repository from github to local machine
     5 cd secondRepo - it changes directory to seconRepo folder
