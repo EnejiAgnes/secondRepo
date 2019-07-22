@@ -7,4 +7,4 @@
     7 git status - to check status
     8 git add . - it adds a new folder
     9 git commit -m - is used to add message to the timestamp
-   10 git push - it pushes codes from local machine to repository 
+   10 git push - it pushes codes from local machine to repository.
