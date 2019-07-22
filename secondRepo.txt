@@ -1,0 +1,10 @@
+    1 pwd - it shows the current location
+    2 cd - it takes you to home
+    3 cd Desktop - it takes you to the desktop folder
+    4 git clone - it clones your repository from github to local machine
+    5 cd secondRepo - it changes directory to seconRepo folder
+    6 ls - it list out all the documents in the folder
+    7 git status - to check status
+    8 git add . - it adds a new folder
+    9 git commit -m - is used to add message to the timestamp
+   10 git push - it pushes codes from local machine to repository 
